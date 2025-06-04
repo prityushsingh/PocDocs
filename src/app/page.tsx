@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 const Home = () => {
   return ( 
     <div>
-      <p>hello qt</p>
+      <Button>touchmycock</Button>
     </div>
    );
 }
